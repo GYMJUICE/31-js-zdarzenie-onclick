@@ -1,0 +1,12 @@
+.przycisk1{
+    margin: 100px;
+    padding:50px 150px;
+    color:red;
+    font-size:30px;
+    cursor: pointer;
+  }
+  .przycisk1:hover{
+    background-color: blue;
+    border: 0;
+    color:white;
+  }
